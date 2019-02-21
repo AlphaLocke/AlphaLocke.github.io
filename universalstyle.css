@@ -31,3 +31,19 @@
     border-radius: 10px;
     color: #ececee !important;
 }*/
+
+#Logo {
+    height: 500px;
+    width: 500px;
+}
+
+#greet-screen {
+    height: 600px;
+    width: 600px;
+    background-image: url("AlphaLocke_Logo.png");
+    text-align: center;
+}
+
+#greeter {
+    color: #000000;
+}
