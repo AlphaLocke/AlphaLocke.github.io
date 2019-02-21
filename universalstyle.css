@@ -1,0 +1,33 @@
+.navbar{
+    /*background-color: #183460 !important;*/
+    background-color: #ececee !important;
+}
+
+.navbar-brand {
+    color: #183460 !important;
+    font-size: 180% !important;
+    
+}
+
+.nav-link{
+    color: #183460 !important;
+    transition: 1s;
+}
+
+.nav-link:hover {
+    background-color: #183460 !important;
+    color: #ececee !important;
+    transition: 1s;
+}
+
+.jumbotron {
+    background-color: #183460 !important;
+    color: #ececee !important;
+}
+
+/*#Profile {
+    background-color: #183460;
+    padding: 1px;
+    border-radius: 10px;
+    color: #ececee !important;
+}*/
