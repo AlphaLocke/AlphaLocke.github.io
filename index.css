@@ -1,0 +1,11 @@
+#navigation {
+    background-color: #000000 !important;
+}
+
+.nav-link {
+    transition: 1s;
+}
+
+.lead {
+    font-size: 250%;
+}
