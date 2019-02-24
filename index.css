@@ -6,6 +6,19 @@
     transition: 1s;
 }
 
-.lead {
-    font-size: 250%;
+#header{
+    font-size: 250% !important;
 }
+
+.border-left {
+    border-width: 20px !important;
+}
+
+#space-top {
+    padding-top: 20px;
+}
+
+#parag {
+    font-size: 25px;
+}
+
